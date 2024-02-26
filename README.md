@@ -1,7 +1,7 @@
 <img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=iamhasanhabib.iamhasanhabib" />
 
 <h1 align="center">
-    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+👋;+I'm+Hasan+Habib!;" />
+    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+👋;+I'm+Kevin+Scott!;" />
 </h1>
 
 <h3 align="center">A passionate Full-Stack Web Developer</h3>
@@ -9,10 +9,10 @@
 <br/>
 
 <div align="center"> 
-  <a href="mailto:officialhasanhabib@gmail.com">
+  <a href="mailto:kevin12.scott14@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-333333?style=for-the-badge&logo=gmail&logoColor=red" />
   </a>
-  <a href="https://linkedin.com/in/iamhasanhabib" target="_blank">
+  <a href="https://linkedin.com/in/kevinscott" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank" />
   </a>
     <a href="https://hasandev-pi.vercel.app" target="_blank">
@@ -33,7 +33,7 @@
 :hearts: &emsp;I enjoy programming and sharing knowledge <br />
 :computer: &emsp;Most used line of code `console.log("hello world")` <br />
 - <img src="https://media.giphy.com/media/12oufCB0MyZ1Go/giphy.gif" width="30"> Fun fact **World first developer was a women**
-- <img src="https://github.com/SP-XD/SP-XD/blob/main/images/letterbox.gif?raw=true" width="25" /> &nbsp; How to reach me **purposework159@gmail.com** & **officialhasanhabib@gmail.com**
+- <img src="https://github.com/SP-XD/SP-XD/blob/main/images/letterbox.gif?raw=true" width="25" /> &nbsp; How to reach me **kevin12.scott14@gmail.com**
 <div align="center">
   
 <h2 align="center">⚒️ Things I code with ⚒️</h2>
@@ -57,10 +57,10 @@
 <h2 align="center">⚡ Stats ⚡</h2>
 <br>
 <div align=center>
-  <img width=390 src="https://github-readme-streak-stats-salesp07.vercel.app/?user=iamhasanhabib&count_private=true&theme=react&border_radius=10" alt="streak stats"/>
-  <img width=390 src="https://github-readme-stats-salesp07.vercel.app/api?username=iamhasanhabib&count_private=true&show_icons=true&theme=react&rank_icon=github&border_radius=10" alt="readme stats" />
+  <img width=390 src="https://github-readme-streak-stats-salesp07.vercel.app/?user=WhiteSnake1004&count_private=true&theme=react&border_radius=10" alt="streak stats"/>
+  <img width=390 src="https://github-readme-stats-salesp07.vercel.app/api?username=WhiteSnake1004&count_private=true&show_icons=true&theme=react&rank_icon=github&border_radius=10" alt="readme stats" />
   <br/>
-  <img width=325 align="center" src="https://github-readme-stats-salesp07.vercel.app/api/top-langs/?username=iamhasanhabib&hide=HTML&langs_count=8&layout=compact&theme=react&border_radius=10&size_weight=0.5&count_weight=0.5&exclude_repo=github-readme-stats" alt="top langs" />
+  <img width=325 align="center" src="https://github-readme-stats-salesp07.vercel.app/api/top-langs/?username=WhiteSnake1004&hide=HTML&langs_count=8&layout=compact&theme=react&border_radius=10&size_weight=0.5&count_weight=0.5&exclude_repo=github-readme-stats" alt="top langs" />
 </div>
 
 <br/><br/>
@@ -68,7 +68,7 @@
   <br>
 <hr/>
 <div align="center">
-<img  src="https://raw.githubusercontent.com/iamhasanhabib/iamhasanhabib/output/github-contribution-grid-snake.svg" alt="contribution graph" />
+<img  src="https://raw.githubusercontent.com/WhiteSnake1004/WhiteSnake1004/output/github-contribution-grid-snake.svg" alt="contribution graph" />
 </div>
 <hr/>
 
